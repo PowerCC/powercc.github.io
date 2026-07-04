@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "ios": {
+    "latest": "1.0.1",
+    "min_supported": "1.0.0",
+    "store_url": "https://apps.apple.com/app/888"
+  },
+  "android": {
+    "latest": "1.0.1",
+    "min_supported": "1.0.0",
+    "store_url": "https://play.google.com/store/apps/details?id=888"
+  },
+  "message": {
+    "en": "A new version is available with aquarium improvements.",
+    "zh_CN": "新版本已推出，对水族箱进行了改进。",
+    "zh_TW": "新版本已推出，對水族箱進行了改進。",
+    "ko": "수족관 기능이 개선된 새 버전이 출시되었습니다.",
+    "ja": "水槽機能が改良された新バージョンがリリースされました。"
+  }
+}
