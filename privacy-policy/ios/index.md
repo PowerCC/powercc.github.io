@@ -1,14 +1,14 @@
-# FishFish Privacy Policy
+# FishFish: Cozy Aquarium Privacy Policy
 
-Effective Date: June 29, 2026
+Effective Date: July 8, 2026
 
-This Privacy Policy explains how FishFish, also known as "鱼鱼" (the "Game"), collects, uses, stores, and shares information when you play the Game on iOS or Android.
+This Privacy Policy explains how FishFish: Cozy Aquarium, also known as "鱼鱼：温馨水族箱" (the "Game"), collects, uses, stores, and shares information when you play the Game on iOS.
 
-This policy is written for the current planned release scope of FishFish. The Game is a single-player, cozy aquarium game. It does not include advertising, in-app purchases, social networking, leaderboards, user-generated content, chat, or location-based gameplay.
+This policy is written for the current planned release scope of FishFish: Cozy Aquarium. The Game is a single-player, cozy aquarium game. It does not include advertising, in-app purchases, social networking, leaderboards, user-generated content, chat, or location-based gameplay.
 
 Developer: PowerCC 
 Contact: powercc80@outlook.com
-Website / Privacy Policy URL: https://powercc.github.io/privacy-policy/
+Website / Privacy Policy URL: https://powercc.github.io/fishfish/privacy-policy/ios/
 
 ## 1. Information We Collect
 
@@ -43,9 +43,8 @@ The Game does not intentionally collect your real name, email address, phone num
 If cloud save is available and enabled by your platform account:
 
 - On iOS, the Game may use iCloud Key-Value Store to sync game progress through the iCloud account configured on your device.
-- On Android, the Game may use Google Play Games Services Saved Games to sync game progress through the Google account used with Play Games.
 
-We do not receive your iCloud password or Google password. Authentication and account management are handled by Apple or Google.
+We do not receive your iCloud password. Authentication and account management are handled by Apple.
 
 Cloud save data contains gameplay progress and save metadata. It is used to restore progress across devices, recover progress after reinstalling the Game, and resolve conflicts between local and cloud saves.
 
@@ -66,7 +65,7 @@ We do not use Firebase data for third-party advertising, ad targeting, or cross-
 
 ## 2. Information We Do Not Collect
 
-FishFish does not intentionally collect:
+FishFish: Cozy Aquarium does not intentionally collect:
 
 - Precise GPS location
 - Contacts
@@ -84,7 +83,7 @@ The current planned release does not include ads, in-app purchases, third-party 
 We use information for the following purposes:
 
 - Save and restore your game progress
-- Sync progress through iCloud or Google Play Games Services when available
+- Sync progress through iCloud when available
 - Detect and resolve save conflicts between local and cloud progress
 - Maintain settings such as language and audio preferences
 - Provide gameplay systems such as fish growth, feeding, water quality, unlocks, catalog progress, aquarium decoration, and offline progress
@@ -104,21 +103,15 @@ If local save data becomes corrupted, the Game may attempt to load a backup. If 
 
 ### 5.1 iOS iCloud
 
-On iOS, FishFish may use Apple's iCloud Key-Value Store to sync your game save. iCloud sync depends on your device settings, iCloud account status, available iCloud storage, and Apple's services.
+On iOS, FishFish: Cozy Aquarium may use Apple's iCloud Key-Value Store to sync your game save. iCloud sync depends on your device settings, iCloud account status, available iCloud storage, and Apple's services.
 
 iCloud data is handled by Apple under Apple's privacy terms and iCloud settings. You can manage iCloud access through your iOS device settings.
 
-### 5.2 Android Google Play Games Services
-
-On Android, FishFish may use Google Play Games Services Saved Games to sync your game save. This requires Google Play Games Services availability and, depending on your device and account state, may require you to be signed in to a Google account.
-
-Google Play Games Services data is handled by Google under Google's privacy terms and Google account settings. You can manage Play Games and Google account settings through your device and Google account controls.
-
-### 5.3 Cloud conflict handling
+### 5.2 Cloud conflict handling
 
 If the Game detects that both local and cloud saves exist and differ, it may show a conflict screen with summary information such as save time, fish count, and coin balance. This helps you choose which save to keep. The Game should not silently overwrite newer valid progress when a conflict is detected.
 
-### 5.4 Offline fallback
+### 5.3 Offline fallback
 
 If cloud sync is unavailable, fails, or the platform account is not signed in, the Game continues to use local save data where possible. Cloud sync failure should not prevent offline play.
 
@@ -127,16 +120,12 @@ If cloud sync is unavailable, fails, or the platform account is not signed in, t
 The Game may use the following third-party services:
 
 - Apple iCloud, for iOS cloud saves
-- Google Play Games Services, for Android cloud saves
 - Firebase Analytics, for app analytics if enabled
 - Firebase Crashlytics, for crash and diagnostic reporting if enabled
 
 These services may process information according to their own privacy policies and terms:
 
 - Apple Privacy Policy: https://www.apple.com/legal/privacy/
-- Google Privacy Policy: https://policies.google.com/privacy
-- Firebase Privacy and Security: https://firebase.google.com/support/privacy
-- Google Play Games Services Terms: https://developer.android.com/games/pgs/terms
 
 We do not sell personal information. We do not share information with advertising networks for targeted advertising.
 
@@ -144,9 +133,9 @@ We do not sell personal information. We do not share information with advertisin
 
 Local game progress remains on your device until you delete the Game, clear app data, or delete the save through any in-game or platform-supported deletion feature that may be provided.
 
-Cloud save data may remain in iCloud or Google Play Games Services according to your platform account settings and the retention practices of Apple or Google.
+Cloud save data may remain in iCloud according to your platform account settings and the retention practices of Apple.
 
-Firebase diagnostic and analytics data, if enabled, is retained according to Firebase and Google retention settings and policies. Crash and diagnostic data may be retained long enough to identify, debug, and resolve stability issues.
+Firebase diagnostic and analytics data, if enabled, is retained according to Firebase and retention settings and policies. Crash and diagnostic data may be retained long enough to identify, debug, and resolve stability issues.
 
 We retain data only for as long as reasonably necessary for the purposes described in this policy, unless a longer retention period is required or permitted by law.
 
@@ -156,29 +145,28 @@ You may have the following controls, depending on platform and final release set
 
 - Use the Game offline with local save fallback when cloud sync is unavailable
 - Disable iCloud for the Game through iOS settings
-- Manage Google Play Games Services sign-in and saved-game settings through Google and Android settings
 - Delete local app data by uninstalling the Game or clearing app data through your device settings
-- Request deletion or access to data associated with diagnostics or cloud services by contacting us or using Apple/Google account controls where applicable
+- Request deletion or access to data associated with diagnostics or cloud services by contacting us or using Apple account controls where applicable
 
 If the final release includes an in-game option for analytics or diagnostics preferences, that setting will control the related in-game behavior as described in the app.
 
 ## 9. Children's Privacy
 
-FishFish is designed as a relaxing aquarium game for a general audience. It is not intended to be directed specifically to children under the age required by applicable law, such as under 13 in the United States.
+FishFish: Cozy Aquarium is designed as a relaxing aquarium game for a general audience. It is not intended to be directed specifically to children under the age required by applicable law, such as under 13 in the United States.
 
 We do not knowingly collect personal information directly from children. If you believe a child has provided personal information to us, contact us at powercc80@outlook.com and we will take appropriate steps to review and delete the information where required.
 
-Parents and guardians can also use iOS, Android, Apple ID, Google account, and store-platform family controls to manage downloads, cloud services, and data settings.
+Parents and guardians can also use iOS, Apple ID, and store-platform family controls to manage downloads, cloud services, and data settings.
 
 ## 10. International Data Processing
 
-Depending on your platform, country, and the third-party services used, information may be processed in countries or regions other than where you live. Apple, Google, and Firebase may process service data according to their own global infrastructure, policies, and legal terms.
+Depending on your platform, country, and the third-party services used, information may be processed in countries or regions other than where you live. Apple, and Firebase may process service data according to their own global infrastructure, policies, and legal terms.
 
 ## 11. Legal Rights
 
 Depending on where you live, you may have rights to request access, correction, deletion, portability, restriction, or objection regarding certain personal information. You may also have the right to withdraw consent where processing is based on consent.
 
-To make a request, contact us at powercc80@outlook.com. We may need information sufficient to verify and process your request. Some data may also need to be managed directly through Apple, Google, iCloud, Google Play Games Services, Firebase, or your device settings because those services are operated by third parties.
+To make a request, contact us at powercc80@outlook.com. We may need information sufficient to verify and process your request. Some data may also need to be managed directly through Apple, iCloud or your device settings because those services are operated by third parties.
 
 ## 12. California Privacy Notice
 
