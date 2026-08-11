@@ -3,18 +3,18 @@
   "ios": {
     "latest": "1.0.0",
     "min_supported": "1.0.0",
-    "store_url": "https://apps.apple.com/app/888"
+    "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208"
   },
   "android": {
-    "latest": "1.0.0",
-    "min_supported": "1.0.0",
-    "store_url": "https://play.google.com/store/apps/details?id=888"
+    "latest": "1.0.2",
+    "min_supported": "1.0.2",
+    "store_url": "https://play.google.com/store/apps/details?id=com.powercc.fishfish"
   },
   "message": {
-    "en": "A new version is available with aquarium improvements.\n1. Added new fish species\n2. Added new aquatic plant species",
-    "zh_CN": "新版本已推出，对水族箱进行了改进。\n1、新增鱼种类\n2、新增水草种类",
-    "zh_TW": "新版本已推出，對水族箱進行了改進。\n1.新增魚種類\n2.新增水草種類",
-    "ko": "수족관 기능이 개선된 새 버전이 출시되었습니다.\n1. 새로운 어종을 추가했습니다\n2. 새로운 수생 식물종을 추가했습니다",
-    "ja": "水槽機能が改良された新バージョンがリリースされました。\n1. 新しい魚種を追加しました\n2. 新しい水生植物種を追加しました"
+    "en": "1.Introducing permanent content packs featuring exclusive fish, aquatic plants, aquascapes, and aquarium themes.\n2.Added purchase restoration for supported devices.\n3.Improved stability and fixed minor bugs.",
+    "zh_CN": "1、推出包含独家鱼类、水草、造景及水族箱主题的永久内容包。\n2、支持在兼容设备上恢复已购内容。\n3、提升了稳定性并修复了若干小问题。",
+    "zh_TW": "1、推出包含獨家魚類、水草、造景及水族箱主題的永久內容包。\n2、支援在相容設備上恢復已購內容。\n3、提升了穩定性並修復了若干小問題。",
+    "ko": "1. 독점 물고기, 수초, 아쿠아스케이프, 수조 테마가 포함된 영구 콘텐츠 팩을 추가했습니다.\n2. 지원 기기에서 구매 내역 복원 기능을 추가했습니다.\n3. 안정성을 개선하고 사소한 버그를 수정했습니다.",
+    "ja": "1. 限定の魚、水草、アクアスケープ用アイテム、水槽テーマを収録した恒久的なコンテンツパックをリリースしました。\n2. 対応デバイスにおいて、購入済みコンテンツを復元する機能を追加しました。\n3. 安定性の向上および軽微な不具合の修正を行いました。"
   }
 }
