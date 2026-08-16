@@ -11,15 +11,18 @@
     "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208"
   },
   "android": {
-    "latest": "1.0.2",
-    "min_supported": "1.0.2",
+    "latest": "1.0.3",
+    "min_supported": "1.0.3",
     "store_url": "https://play.google.com/store/apps/details?id=com.powercc.fishfish"
   },
   "message": {
-    "en": "1.Introducing permanent content packs featuring exclusive fish, aquatic plants, aquascapes, and aquarium themes.\n2.Added purchase restoration for supported devices.\n3.Improved stability and fixed minor bugs.",
-    "zh_CN": "1、推出包含独家鱼类、水草、造景及水族箱主题的永久内容包。\n2、支持在兼容设备上恢复已购内容。\n3、提升了稳定性并修复了若干小问题。",
-    "zh_TW": "1、推出包含獨家魚類、水草、造景及水族箱主題的永久內容包。\n2、支援在相容設備上恢復已購內容。\n3、提升了穩定性並修復了若干小問題。",
-    "ko": "1. 독점 물고기, 수초, 아쿠아스케이프, 수조 테마가 포함된 영구 콘텐츠 팩을 추가했습니다.\n2. 지원 기기에서 구매 내역 복원 기능을 추가했습니다.\n3. 안정성을 개선하고 사소한 버그를 수정했습니다.",
-    "ja": "1. 限定の魚、水草、アクアスケープ用アイテム、水槽テーマを収録した恒久的なコンテンツパックをリリースしました。\n2. 対応デバイスにおいて、購入済みコンテンツを復元する機能を追加しました。\n3. 安定性の向上および軽微な不具合の修正を行いました。"
+    "en": "1. Added German, French, and Thai language support.\n2. Optimized visual effects for the theme.\n3. Improved stability and fixed several minor issues.",
+    "zh_CN": "1. 增加了德语、法语和泰语支持。\n2. 优化了主题的视觉效果。\n3. 提升了稳定性并修复了若干小问题。",
+    "zh_TW": "1. 新增德語、法語和泰語支援。\n2. 優化主題的視覺效果。\n3. 提升穩定性並修復了一些小問題。",
+    "ko": "1. 독일어, 프랑스어, 태국어 지원을 추가했습니다.\n2. 테마의 시각 효과를 최적화했습니다.\n3. 안정성을 개선하고 몇 가지 사소한 문제를 수정했습니다.",
+    "ja": "1. ドイツ語、フランス語、タイ語の言語サポートを追加しました。\n2. テーマの視覚効果を最適化しました。\n3. 安定性を向上させ、いくつかの軽微な問題を修正しました。",
+    "de": "1. Unterstützung für Deutsch, Französisch und Thailändisch hinzugefügt.\n2. Visuelle Effekte für das Design optimiert.\n3. Stabilität verbessert und diverse kleinere Probleme behoben.",
+    "fr": "1. Ajout de la prise en charge des langues allemande, française et thaïlandaise.\n2. Optimisation des effets visuels du thème.\n3. Amélioration de la stabilité et correction de plusieurs problèmes mineurs.", 
+    "th": "1. เพิ่มการรองรับภาษาเยอรมัน ฝรั่งเศส และไทย\n2. ปรับปรุงเอฟเฟกต์ภาพสำหรับธีมให้ดียิ่งขึ้น\n3. เพิ่มความเสถียรและแก้ไขปัญหาเล็กน้อยหลายจุด"
   }
 }
