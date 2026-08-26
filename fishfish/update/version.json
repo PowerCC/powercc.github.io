@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "ios": {
-    "latest": "1.0.3",
+    "latest": "1.0.4",
     "min_supported": "1.0.0",
     "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208"
   },
@@ -11,18 +11,18 @@
     "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208"
   },
   "android": {
-    "latest": "1.0.3",
+    "latest": "1.0.4",
     "min_supported": "1.0.3",
     "store_url": "https://play.google.com/store/apps/details?id=com.powercc.fishfish"
   },
   "message": {
-    "en": "1. Added German, French, and Thai language support.\n2. Optimized visual effects for the theme.\n3. Improved stability and fixed several minor issues.",
-    "zh_CN": "1. 增加了德语、法语和泰语支持。\n2. 优化了主题的视觉效果。\n3. 提升了稳定性并修复了若干小问题。",
-    "zh_TW": "1. 新增德語、法語和泰語支援。\n2. 優化主題的視覺效果。\n3. 提升穩定性並修復了一些小問題。",
-    "ko": "1. 독일어, 프랑스어, 태국어 지원을 추가했습니다.\n2. 테마의 시각 효과를 최적화했습니다.\n3. 안정성을 개선하고 몇 가지 사소한 문제를 수정했습니다.",
-    "ja": "1. ドイツ語、フランス語、タイ語の言語サポートを追加しました。\n2. テーマの視覚効果を最適化しました。\n3. 安定性を向上させ、いくつかの軽微な問題を修正しました。",
-    "de": "1. Unterstützung für Deutsch, Französisch und Thailändisch hinzugefügt.\n2. Visuelle Effekte für das Design optimiert.\n3. Stabilität verbessert und diverse kleinere Probleme behoben.",
-    "fr": "1. Ajout de la prise en charge des langues allemande, française et thaïlandaise.\n2. Optimisation des effets visuels du thème.\n3. Amélioration de la stabilité et correction de plusieurs problèmes mineurs.", 
-    "th": "1. เพิ่มการรองรับภาษาเยอรมัน ฝรั่งเศส และไทย\n2. ปรับปรุงเอฟเฟกต์ภาพสำหรับธีมให้ดียิ่งขึ้น\n3. เพิ่มความเสถียรและแก้ไขปัญหาเล็กน้อยหลายจุด"
+    "en": "Three new courtyard themes are here!\n- Thai Courtyard — a tranquil tropical retreat\n- French Provence Countryside — romantic lavender fields and rustic charm\n- Bavarian Village Courtyard — a cozy Alpine-inspired escape\nChoose your favorite theme and give your aquarium a refreshing new look!",
+    "zh_CN": "三款全新庭院主题现已上线！\n- 泰式庭院：感受宁静惬意的热带风情\n- 法国普罗旺斯乡村：沉浸在浪漫的薰衣草与质朴乡野之中\n- 巴伐利亚小镇庭院：体验温馨迷人的阿尔卑斯风光\n选择你喜欢的主题，为水族馆换上全新风景吧！",
+    "zh_TW": "三款全新庭院主題現已登場！\n- 泰式庭院：感受寧靜愜意的熱帶風情\n- 法國普羅旺斯鄉村：沉浸在浪漫的薰衣草與質樸鄉野之中\n- 巴伐利亞小鎮庭院：體驗溫馨迷人的阿爾卑斯風光\n選擇你喜愛的主題，為水族館換上全新風景吧！",
+    "ko": "새로운 안뜰 테마 3가지를 만나보세요!\n- 태국 스타일 안뜰 — 평온한 열대 휴식처\n- 프랑스 프로방스 시골 — 낭만적인 라벤더 들판과 소박한 매력\n- 바이에른 마을 안뜰 — 알프스 분위기의 아늑한 휴식 공간\n마음에 드는 테마를 선택해 수족관을 산뜻하고 새로운 모습으로 꾸며보세요!",
+    "ja": "3つの新しいガーデンテーマが登場しました！\n- タイ風ガーデン：穏やかで心安らぐ南国の雰囲気\n- フランス・プロヴァンスの田園：ラベンダーが彩る、素朴でロマンチックな風景\n- バイエルンの村のガーデン：アルプスの温もりを感じる、居心地のよい空間\nお気に入りのテーマを選んで、アクアリウムを新しい景色に着せ替えましょう！",
+    "de": "Drei neue Gartenthemen sind da!\n- Thailändischer Garten – ein ruhiger Rückzugsort mit tropischem Flair\n- Französische Provence – romantische Lavendelfelder und ländlicher Charme\n- Bayerischer Dorfgarten – gemütliche Atmosphäre vor alpiner Kulisse\nWähle dein Lieblingsthema und verleihe deinem Aquarium einen ganz neuen Look!",
+    "fr": "Trois nouveaux thèmes de jardin sont disponibles !\n- Jardin thaïlandais — une oasis tropicale paisible\n- Campagne provençale — lavande romantique et charme rustique\n- Jardin d’un village bavarois — une escapade chaleureuse au cœur des Alpes\nChoisissez votre thème préféré et offrez un tout nouveau décor à votre aquarium !", 
+    "th": "พบกับธีมสวนใหม่ 3 ธีม!\n- สวนสไตล์ไทย — สัมผัสบรรยากาศเขตร้อนอันเงียบสงบและผ่อนคลาย\n- ชนบทโพรวองซ์ของฝรั่งเศส — ดื่มด่ำกับทุ่งลาเวนเดอร์แสนโรแมนติกและเสน่ห์แบบชนบท\n- สวนหมู่บ้านบาวาเรีย — เพลิดเพลินกับบรรยากาศแสนอบอุ่นท่ามกลางทิวทัศน์เทือกเขาแอลป์\nเลือกธีมที่คุณชื่นชอบ แล้วเนรมิตโฉมใหม่ให้พิพิธภัณฑ์สัตว์น้ำของคุณกันเลย!"
   }
 }
