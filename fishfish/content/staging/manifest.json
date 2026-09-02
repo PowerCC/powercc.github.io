@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "revision": 1,
+  "minimum_app_version": "1.0.6",
+  "catalog": {
+    "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-staging-r1/catalog-r1.json",
+    "size": 1609,
+    "sha256": "281c720e9f382582e89d37d3ced7a2dcba4131dd9a77ce0f7acefb634a075a56",
+    "signature": "kwNdB/FmDZfYm6J7HVQuZljXNvABTGhFKi2LrB+BP5uGXu+WJT7L93QhcvQL/1orVw3ITaMjquHgW6au7995Wh3BjBsQOMGbR02hzwJ9V6xC4YNJXcEleM5zAYJBY/01NQ7YA0S5LQTnIRRUS8QsmclWpy9GGn41aKCKe+OyOWS+efyecLkr7RsSBD35FPgFohXbKMrkoNDpq4JTCZPUOyeu5E0/3WOkzpy7cBMDo9A0QAFFLPxVICE+f+aVBi7Mkq/+lADkmryiBRpfE9yG17IsKromZVGu066FrmlYVvKdIasOcLmG+6L2bJUmbnQl/75HlrQsjmxS4RIf2Ngp3fanLz/e+w7iYfDzbjTfrcDkS3tKwAKParGo7JLBVkRJs3liaSTLB5ZuXfFlrEazr/ngJGXfyby04FqBNyxuhI21mlc8w6gRrTucbJcurk1/NhiEpJAhxUlzG0LMGHk21io3lIrYwQkW9s697/lqccp1dgVW61RXnHVQzZ7Y47Q/"
+  },
+  "packs": [
+    {
+      "pack_id": "staging_smoke",
+      "pack_version": 1,
+      "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-staging-r1/staging_smoke-v1.pck",
+      "size": 2356,
+      "sha256": "d1ecfbef1c62977da73303b34e56bd33011bc00e5ccdda6a16d475bd43d6b476",
+      "signature": "NWNm1Jj3KWLMz1ilPOrVikaCpG0ue7vGw50OgNBJcneQXskYBhqLvj5f8SsvhfvH1nazLSr/MWFKtY4qpYf8xz8P6Ne9tT7QRAjifFLooXqn1jg53cHvq6TnwSrOecX5kZElVb+L4zSbFCskS9kqSiKux73aQ9i7URrsjbzEszVHSkmg5Thbz7HGPQo0QJyPp+/roBVZZqEnjNhU6d8iyfgSZBYWuhSlg0MVSM4oyzzvaIaY7Q/u40MC8rVOaIc/NQjEHBqqVIX2PFjkeMYTcooGEcOSKKOOviE8Bm5SJ4n3kW9+qlkDad37DUng4AJQIC5N2Ct8NIvjjai6dMqIzB1YKKG7ARFoskYrcIoPrePtVvOy4fgXlAOvAd/l6NJG+h53WSlQar9r7w2ipbYJYuU5qZhiq19brq+XXo75BIMWJlsWuTujeJfbWC5nBhRcjPYkT+Si7zeJbjm4CHudwpUk2IAXVwljygan8iHXyg2s6HhkBTJtr+FUcqsJKWHI",
+      "files": [
+        "res://dynamic_content/staging_smoke/assets/gentle_moss.svg",
+        "res://dynamic_content/staging_smoke/catalog.json"
+      ]
+    }
+  ],
+  "signature": "cX6EUouzZ337yvrFcvtGkIorCMZArbAri6T6BjLwHwZ6GLP7Xv6wTKzq/qmgS6MlTnxHvDt3SQxaUsLOvk9m72xT1dDPbaxeD7bt+Uuqu8JIuM1Vdzcz7tTveFfrqxeEb8fpg1VhA+9WnAAaAV4+xsdrI0SPLDIIha5am/gS5fiMriJC4iWGsLiIE8ncVBGVeFt7bvQeZX5fyt3vtzsgfCXmGbhBUi0NiE5G2+Mf0U9b8glPZRo6ouBejdXZXqIcgbd6ZJeY/QThM49tl673kl9MUE/oIElsn/1KWJJluuBiz85RvoAScsx5Yv+KduUmeGm5JtNhNqBss8jGrLx43PrI/2BBdwIx/V8ThFfu3KV3hYrgp8DfT+aKG+SGu0l7wu7qvEftN21E3uhCHBcUw1YgR0dnWksIZwafaQHZHSHr9LC1eSDWlJs9eWqkxwybpIVm1W6Lv9gXiSaWK/Q8rQhBiY2iHUI4I0misqgvJnRBCjK0DUjW5Lvd/Tqe7+oY"
+}
