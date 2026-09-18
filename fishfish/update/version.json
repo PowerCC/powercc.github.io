@@ -3,17 +3,26 @@
   "ios": {
     "latest": "1.0.5",
     "min_supported": "1.0.0",
-    "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208"
+    "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208",
+    "message": ""
   },
   "macOS": {
     "latest": "1.0.5",
     "min_supported": "1.0.0",
-    "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208"
+    "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208",
+    "message": ""
   },
   "android": {
     "latest": "1.0.5",
     "min_supported": "1.0.3",
-    "store_url": "https://play.google.com/store/apps/details?id=com.powercc.fishfish"
+    "store_url": "https://play.google.com/store/apps/details?id=com.powercc.fishfish",
+    "message": ""
+  },
+  "windows": {
+    "latest": "1.0.5",
+    "min_supported": "1.0.5",
+    "store_url": "https://apps.microsoft.com/detail/9pj5j2lpbqfv?hl=en-US&gl=US",
+    "message": ""
   },
   "message": {
     "en": "1.Added 12 new aquatic species.\n2.Added 54 new aquarium ornaments to collect and arrange.\n3.Added Cleaning Tool Shrimp Pack.\n4.Added five permanent themed decoration packs.\n5.You can now sell or release fish from the Aquarium Diary.\n6.Improved background music, shop presentation, content sorting, save compatibility, and overall performance.",
