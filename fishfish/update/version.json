@@ -13,10 +13,19 @@
     "message": ""
   },
   "android": {
-    "latest": "1.0.5",
+    "latest": "1.0.7",
     "min_supported": "1.0.3",
     "store_url": "https://play.google.com/store/apps/details?id=com.powercc.fishfish",
-    "message": ""
+    "message": {
+      "en": "1.Added German Blue Rams and Angelfish, featuring 17 beautiful varieties in total.\n2.Added four permanent collection packs: Discus · Phantom Blue Collection Pack, Discus · Crimson Gold Collection Pack, Koi · Classic Collection Pack, and Koi · Brilliant Collection Pack.\n3.Improved fish swimming animations for smoother, more natural movement.\n4.Fixed known issues and improved overall stability and gameplay experience.",
+      "zh_CN": "1.新增荷兰凤凰与神仙鱼，共计 17 种精美品相。\n2.新增四款永久珍藏礼包：七彩神仙鱼·幻蓝珍藏包、七彩神仙鱼·绯金珍藏包、锦鲤·经典珍藏包、锦鲤·华彩珍藏包。\n3.优化鱼儿游动效果，动作更加自然流畅。\n4.修复已知问题，提升游戏稳定性与整体体验。",
+      "zh_TW": "1.新增荷蘭鳳凰與神仙魚，共 17 種精美品相。\n2.新增四款永久珍藏禮包：七彩神仙魚·幻藍珍藏包、七彩神仙魚·緋金珍藏包、錦鯉·經典珍藏包、錦鯉·華彩珍藏包。\n3.優化魚兒遊動效果，動作更加自然流暢。\n4.修復已知問題，提升遊戲穩定性與整體體驗。",
+      "ko": "1. 저먼 블루 램(German Blue Ram)과 엔젤피시(Angelfish)를 추가하여 총 17종의 아름다운 품종을 선보입니다.\n2. 디스커스·팬텀 블루 컬렉션 팩, 디스커스·크림슨 골드 컬렉션 팩, 코이·클래식 컬렉션 팩, 코이·브릴리언트 컬렉션 팩 등 4종의 상시 컬렉션 팩을 추가했습니다.\n3. 물고기의 유영 애니메이션을 개선하여 움직임이 더욱 부드럽고 자연스러워졌습니다.\n4. 알려진 문제를 수정하고 전반적인 안정성 및 게임 플레이 경험을 개선했습니다.",
+      "ja": "1.ラミレジィとエンゼルフィッシュに、合計17種類の美しい品種を追加しました。\n2.4つの永久コレクションパックを追加しました：ディスカス・幻青コレクションパック、ディスカス・緋金コレクションパック、錦鯉・クラシックコレクションパック、錦鯉・華彩コレクションパック。\n3.魚の泳ぎを改善し、より滑らかで自然な動きになりました。\n4.既知の問題を修正し、ゲームの安定性と全体的なプレイ体験を向上しました。",
+      "de": "1.Schmetterlingsbuntbarsche und Skalare mit insgesamt 17 wunderschönen Varianten hinzugefügt.\n2.Vier permanente Kollektionpakete hinzugefügt: Diskus · Phantomblau-Kollektionpaket, Diskus · Scharlachgold-Kollektionpaket, Koi · Klassisches Kollektionpaket und Koi · Brillantes Kollektionpaket.\n3.Das Schwimmverhalten der Fische wurde verbessert und wirkt nun flüssiger und natürlicher.\n4.Bekannte Probleme wurden behoben und die Stabilität sowie das gesamte Spielerlebnis verbessert.",
+      "fr": "1.Ajout des ramirezis et des scalaires, avec 17 magnifiques variantes au total.\n2.Ajout de quatre packs de collection permanents : Discus · Pack de collection bleu fantôme, Discus · Pack de collection or cramoisi, Koï · Pack de collection classique et Koï · Pack de collection éclatante\n3.Amélioration des mouvements des poissons, désormais plus fluides et naturels.\n4.Correction de problèmes connus et amélioration de la stabilité et de l’expérience de jeu globale.", 
+      "th": "1.เพิ่มปลาหมอแรมและปลาเทวดา รวมทั้งหมด 17 สายพันธุ์สีสันสวยงาม\n2.เพิ่มแพ็กคอลเลกชันถาวร 4 แพ็ก ได้แก่ ดิสคัส·แพ็กคอลเลกชันแฟนทอมบลู, ดิสคัส·แพ็กคอลเลกชันคริมสันโกลด์, ปลาคาร์ฟ·แพ็กคอลเลกชันคลาสสิก และปลาคาร์ฟ·แพ็กคอลเลกชันสีเจิดจรัส\n3.ปรับปรุงการว่ายน้ำของปลาให้ลื่นไหลและเป็นธรรมชาติยิ่งขึ้น\n4.แก้ไขปัญหาที่พบและปรับปรุงเสถียรภาพ รวมถึงประสบการณ์การเล่นโดยรวม"
+    }
   },
   "windows": {
     "latest": "1.0.5",
