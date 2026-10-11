@@ -1,64 +1,46 @@
 {
   "schema_version": 1,
   "ios": {
-    "latest": "1.0.7",
+    "latest": "1.0.9",
     "min_supported": "1.0.0",
     "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208",
-    "message": {
-      "en": "1.New Chinese National Day decorations added.\n2.Fixed known issues and improved overall stability and gameplay experience.",
-      "zh_CN": "1.新增中国国庆节摆件。\n2.修复已知问题，提升游戏稳定性与整体体验。",
-      "zh_TW": "1.新增中國國慶節擺件。\n2.修復已知問題，提升遊戲穩定性與整體體驗。",
-      "ko": "1. 중국 국경절 장식이 추가되었습니다.\n2. 알려진 문제를 수정하고 게임 안정성 및 전반적인 플레이 경험을 개선했습니다.",
-      "ja": "1.中国の国慶節用オーナメントが新たに追加されました。\n2.既知の問題を修正し、ゲームの安定性と全体的なプレイ体験を向上しました。",
-      "de": "1.Neue Dekorationen zum chinesischen Nationalfeiertag hinzugefügt.\n2.Bekannte Probleme wurden behoben und die Stabilität sowie das gesamte Spielerlebnis verbessert.",
-      "fr": "1.De nouvelles décorations pour la fête nationale chinoise ont été ajoutées.\n2.Correction de problèmes connus et amélioration de la stabilité et de l’expérience de jeu globale.", 
-      "th": "1.เพิ่มของตกแต่งใหม่สำหรับวันชาติจีน\n2.แก้ไขปัญหาที่พบและปรับปรุงเสถียรภาพ รวมถึงประสบการณ์การเล่นโดยรวม"
-    }
+    "message": ""
   },
   "macOS": {
-    "latest": "1.0.7",
+    "latest": "1.0.9",
     "min_supported": "1.0.0",
     "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208",
-    "message": {
-      "en": "1.New Chinese National Day decorations added.\n2.Fixed known issues and improved overall stability and gameplay experience.",
-      "zh_CN": "1.新增中国国庆节摆件。\n2.修复已知问题，提升游戏稳定性与整体体验。",
-      "zh_TW": "1.新增中國國慶節擺件。\n2.修復已知問題，提升遊戲穩定性與整體體驗。",
-      "ko": "1. 중국 국경절 장식이 추가되었습니다.\n2. 알려진 문제를 수정하고 게임 안정성 및 전반적인 플레이 경험을 개선했습니다.",
-      "ja": "1.中国の国慶節用オーナメントが新たに追加されました。\n2.既知の問題を修正し、ゲームの安定性と全体的なプレイ体験を向上しました。",
-      "de": "1.Neue Dekorationen zum chinesischen Nationalfeiertag hinzugefügt.\n2.Bekannte Probleme wurden behoben und die Stabilität sowie das gesamte Spielerlebnis verbessert.",
-      "fr": "1.De nouvelles décorations pour la fête nationale chinoise ont été ajoutées.\n2.Correction de problèmes connus et amélioration de la stabilité et de l’expérience de jeu globale.", 
-      "th": "1.เพิ่มของตกแต่งใหม่สำหรับวันชาติจีน\n2.แก้ไขปัญหาที่พบและปรับปรุงเสถียรภาพ รวมถึงประสบการณ์การเล่นโดยรวม"
-    }
+    "message": ""
   },
   "android": {
-    "latest": "1.0.8",
+    "latest": "1.0.9",
     "min_supported": "1.0.3",
     "store_url": "https://play.google.com/store/apps/details?id=com.powercc.fishfish",
-    "message": {
-      "en": "1.New Chinese National Day decorations added.\n2.Fixed known issues and improved overall stability and gameplay experience.",
-      "zh_CN": "1.新增中国国庆节摆件。\n2.修复已知问题，提升游戏稳定性与整体体验。",
-      "zh_TW": "1.新增中國國慶節擺件。\n2.修復已知問題，提升遊戲穩定性與整體體驗。",
-      "ko": "1. 중국 국경절 장식이 추가되었습니다.\n2. 알려진 문제를 수정하고 게임 안정성 및 전반적인 플레이 경험을 개선했습니다.",
-      "ja": "1.中国の国慶節用オーナメントが新たに追加されました。\n2.既知の問題を修正し、ゲームの安定性と全体的なプレイ体験を向上しました。",
-      "de": "1.Neue Dekorationen zum chinesischen Nationalfeiertag hinzugefügt.\n2.Bekannte Probleme wurden behoben und die Stabilität sowie das gesamte Spielerlebnis verbessert.",
-      "fr": "1.De nouvelles décorations pour la fête nationale chinoise ont été ajoutées.\n2.Correction de problèmes connus et amélioration de la stabilité et de l’expérience de jeu globale.", 
-      "th": "1.เพิ่มของตกแต่งใหม่สำหรับวันชาติจีน\n2.แก้ไขปัญหาที่พบและปรับปรุงเสถียรภาพ รวมถึงประสบการณ์การเล่นโดยรวม"
-    }
+    "message": ""
   },
   "windows": {
     "latest": "1.0.7",
     "min_supported": "1.0.5",
     "store_url": "https://apps.microsoft.com/detail/9pj5j2lpbqfv?hl=en-US&gl=US",
-    "message": ""
+    "message": {
+      "en": "1.New Chinese National Day decorations added.\n2.Fixed known issues and improved overall stability and gameplay experience.",
+      "zh_CN": "1.新增中国国庆节摆件。\n2.修复已知问题，提升游戏稳定性与整体体验。",
+      "zh_TW": "1.新增中國國慶節擺件。\n2.修復已知問題，提升遊戲穩定性與整體體驗。",
+      "ko": "1. 중국 국경절 장식이 추가되었습니다.\n2. 알려진 문제를 수정하고 게임 안정성 및 전반적인 플레이 경험을 개선했습니다.",
+      "ja": "1.中国の国慶節用オーナメントが新たに追加されました。\n2.既知の問題を修正し、ゲームの安定性と全体的なプレイ体験を向上しました。",
+      "de": "1.Neue Dekorationen zum chinesischen Nationalfeiertag hinzugefügt.\n2.Bekannte Probleme wurden behoben und die Stabilität sowie das gesamte Spielerlebnis verbessert.",
+      "fr": "1.De nouvelles décorations pour la fête nationale chinoise ont été ajoutées.\n2.Correction de problèmes connus et amélioration de la stabilité et de l’expérience de jeu globale.", 
+      "th": "1.เพิ่มของตกแต่งใหม่สำหรับวันชาติจีน\n2.แก้ไขปัญหาที่พบและปรับปรุงเสถียรภาพ รวมถึงประสบการณ์การเล่นโดยรวม"
+    }
   },
   "message": {
-    "en": "1.New Chinese National Day decorations added.\n2.Fixed known issues and improved overall stability and gameplay experience.",
-    "zh_CN": "1.新增中国国庆节摆件。\n2.修复已知问题，提升游戏稳定性与整体体验。",
-    "zh_TW": "1.新增中國國慶節擺件。\n2.修復已知問題，提升遊戲穩定性與整體體驗。",
-    "ko": "1. 중국 국경절 장식이 추가되었습니다.\n2. 알려진 문제를 수정하고 게임 안정성 및 전반적인 플레이 경험을 개선했습니다.",
-    "ja": "1.中国の国慶節用オーナメントが新たに追加されました。\n2.既知の問題を修正し、ゲームの安定性と全体的なプレイ体験を向上しました。",
-    "de": "1.Neue Dekorationen zum chinesischen Nationalfeiertag hinzugefügt.\n2.Bekannte Probleme wurden behoben und die Stabilität sowie das gesamte Spielerlebnis verbessert.",
-    "fr": "1.De nouvelles décorations pour la fête nationale chinoise ont été ajoutées.\n2.Correction de problèmes connus et amélioration de la stabilité et de l’expérience de jeu globale.", 
-    "th": "1.เพิ่มของตกแต่งใหม่สำหรับวันชาติจีน\n2.แก้ไขปัญหาที่พบและปรับปรุงเสถียรภาพ รวมถึงประสบการณ์การเล่นโดยรวม"
+    "en": "1. Added a theme preview feature.\n2. Added 4 new varieties of classic ornamental fish.\n3. Doubled the capacity of all fish tanks.\n4. Adjusted the beginner difficulty level.\n5. Fixed several known issues.",
+    "zh_CN": "1.新增主题预览功能。\n2.新增4个品种的经典观赏鱼。\n3.所有鱼缸容量升级为2倍。\n4.初级难度调整。\n5.修复一些已知问题。",
+    "zh_TW": "1.新增主題預覽功能。\n2.新增4個品種的經典觀賞魚。\n3.所有魚缸容量升級為2倍。\n4.初級難度調整。\n5.修復一些已知問題。",
+    "ko": "1. 테마 미리보기 기능을 추가했습니다.\n2. 새로운 클래식 관상어 4종을 추가했습니다.\n3. 모든 어항의 수용 용량을 두 배로 늘렸습니다.\n4. 초보자 난이도를 조정했습니다.\n5. 몇 가지 알려진 문제를 수정했습니다.",
+    "ja": "1. テーマのプレビュー機能を追加しました。\n2. 4種類の定番観賞魚を追加しました。\n3. すべての水槽の容量を2倍に拡張しました。\n4. 初級の難易度を調整しました。\n5. 既知の不具合を修正しました。",
+    "de": "1. Eine Vorschaufunktion für Designs wurde hinzugefügt.\n2. Vier neue Varianten klassischer Zierfische wurden hinzugefügt.\n3. Die Kapazität aller Aquarien wurde verdoppelt.\n4. Der Schwierigkeitsgrad für Anfänger wurde angepasst.\n5. Mehrere bekannte Fehler wurden behoben.",
+    "fr": "1. Ajout d'une fonctionnalité de prévisualisation des thèmes.\n2. Ajout de 4 nouvelles variétés de poissons d'ornement classiques.\n3. Doublement de la capacité de tous les aquariums.\n4. Ajustement du niveau de difficulté pour les débutants.\n5. Correction de plusieurs problèmes connus.", 
+    "th": "1. เพิ่มฟีเจอร์ดูตัวอย่างธีม\n2. เพิ่มปลาสวยงามคลาสสิกสายพันธุ์ใหม่ 4 ชนิด\n3. เพิ่มความจุของตู้ปลาทุกตู้เป็นสองเท่า\n4. ปรับระดับความยากสำหรับผู้เล่นใหม่\n5. แก้ไขปัญหาที่พบหลายจุด"
   }
 }
