@@ -19,19 +19,10 @@
     "message": ""
   },
   "windows": {
-    "latest": "1.0.7",
+    "latest": "1.0.9",
     "min_supported": "1.0.5",
     "store_url": "https://apps.microsoft.com/detail/9pj5j2lpbqfv?hl=en-US&gl=US",
-    "message": {
-      "en": "1.New Chinese National Day decorations added.\n2.Fixed known issues and improved overall stability and gameplay experience.",
-      "zh_CN": "1.新增中国国庆节摆件。\n2.修复已知问题，提升游戏稳定性与整体体验。",
-      "zh_TW": "1.新增中國國慶節擺件。\n2.修復已知問題，提升遊戲穩定性與整體體驗。",
-      "ko": "1. 중국 국경절 장식이 추가되었습니다.\n2. 알려진 문제를 수정하고 게임 안정성 및 전반적인 플레이 경험을 개선했습니다.",
-      "ja": "1.中国の国慶節用オーナメントが新たに追加されました。\n2.既知の問題を修正し、ゲームの安定性と全体的なプレイ体験を向上しました。",
-      "de": "1.Neue Dekorationen zum chinesischen Nationalfeiertag hinzugefügt.\n2.Bekannte Probleme wurden behoben und die Stabilität sowie das gesamte Spielerlebnis verbessert.",
-      "fr": "1.De nouvelles décorations pour la fête nationale chinoise ont été ajoutées.\n2.Correction de problèmes connus et amélioration de la stabilité et de l’expérience de jeu globale.", 
-      "th": "1.เพิ่มของตกแต่งใหม่สำหรับวันชาติจีน\n2.แก้ไขปัญหาที่พบและปรับปรุงเสถียรภาพ รวมถึงประสบการณ์การเล่นโดยรวม"
-    }
+    "message": ""
   },
   "message": {
     "en": "1. Added a theme preview feature.\n2. Added 4 new varieties of classic ornamental fish.\n3. Doubled the capacity of all fish tanks.\n4. Adjusted the beginner difficulty level.\n5. Fixed several known issues.",
