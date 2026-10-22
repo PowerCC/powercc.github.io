@@ -4,7 +4,16 @@
     "latest": "1.0.9",
     "min_supported": "1.0.0",
     "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208",
-    "message": ""
+    "message": {
+      "en": "1.Added support for iPhone Duo, with an optimized layout and improved display experience.\n2.Optimized display for Aquarium Diary.",
+      "zh_CN": "1.新增对 iPhone Duo 的支持，优化了布局并提升了显示体验。\n2.优化了“水族日记”的显示效果。",
+      "zh_TW": "1.新增對 iPhone Duo 的支持，優化了佈局並提升了顯示體驗。\n2.優化了水族箱日記的顯示效果。",
+      "Ko":"1. iPhone Duo 지원을 추가하고, 레이아웃을 최적화했으며, 화면 표시 경험을 개선했습니다.\n2. '수족관 일기(Aquarium Diary)'의 시각적 구성을 최적화했습니다.",
+      "ja": "1. iPhone Duoへの対応を追加しました。レイアウトを最適化し、表示体験を向上させています。\n2. 「Aquarium Diary」の表示を最適化しました。",
+      "de": "1. Unterstützung für iPhone Duo hinzugefügt, mit optimiertem Layout und verbesserter Darstellungsqualität.\n2. Optimierte Darstellung für „Aquarium Diary“.",
+      "fr": "1. Ajout de la prise en charge de l'iPhone Duo, avec une mise en page optimisée et une expérience d'affichage améliorée.\n2. Affichage optimisé pour « Aquarium Diary ».", 
+      "th": "1. เพิ่มการรองรับ iPhone Duo พร้อมปรับปรุงเลย์เอาต์และประสบการณ์การแสดงผลให้ดียิ่งขึ้น\n2. ปรับปรุงการแสดงผลสำหรับ Aquarium Diary"
+    }
   },
   "macOS": {
     "latest": "1.0.9",
@@ -16,7 +25,16 @@
     "latest": "1.0.9",
     "min_supported": "1.0.3",
     "store_url": "https://play.google.com/store/apps/details?id=com.powercc.fishfish",
-    "message": ""
+    "message": {
+      "en": "1. Optimized display for Aquarium Diary.",
+      "zh_CN": "1.优化了“水族日记”的显示效果。",
+      "zh_TW": "1.優化了水族箱日記的顯示效果。",
+      "Ko":"1. '수족관 일기(Aquarium Diary)'의 시각적 구성을 최적화했습니다.",
+      "ja": "1.「Aquarium Diary」の表示を最適化しました。",
+      "de": "1. Optimierte Darstellung für „Aquarium Diary“.",
+      "fr": "1. Affichage optimisé pour « Aquarium Diary ».", 
+      "th": "1. ปรับปรุงการแสดงผลสำหรับ Aquarium Diary"
+    }
   },
   "windows": {
     "latest": "1.0.9",
