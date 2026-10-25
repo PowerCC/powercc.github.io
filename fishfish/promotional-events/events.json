@@ -6,6 +6,7 @@
     {
       "id": "halloween",
       "enabled": true,
+      "eventImage": "https://powercc.github.io/fishfish/images/halloween.webp",
       "name": {
         "zh_CN": "万圣节活动",
         "zh_TW": "萬聖節活動",
