@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "revision": 1,
+  "default_locale": "en",
+  "events": [
+    {
+      "id": "halloween",
+      "enabled": true,
+      "name": {
+        "zh_CN": "万圣节活动",
+        "zh_TW": "萬聖節活動",
+        "en": "Halloween Event",
+        "ko": "할로윈 이벤트",
+        "ja": "ハロウィンイベント",
+        "de": "Halloween-Event",
+        "fr": "Événement Halloween",
+        "th": "กิจกรรมฮาโลวีน"
+      },
+      "description": {
+        "zh_CN": "万圣节来访！活动期间可免费使用四款主题，购买万圣节稀有鱼及万圣夜·幻影珍藏包。活动结束后，已入缸的鱼仍可继续饲养。",
+        "zh_TW": "萬聖節來訪！活動期間可免費使用四款主題，購買萬聖節稀有魚及萬聖夜·幻影珍藏包。活動結束後，已入缸的魚仍可繼續飼養。",
+        "en": "Halloween is here! Enjoy four free themes and purchase seasonal rare fish and the Halloween Phantom Collection during the event. Fish already in your aquarium remain yours to care for after the event ends.",
+        "ko": "할로윈이 찾아왔어요! 이벤트 기간에 테마 4종을 무료로 이용하고 할로윈 희귀 물고기와 할로윈 팬텀 컬렉션을 구매할 수 있어요. 이벤트가 끝나도 수조에 있는 물고기는 계속 기를 수 있어요.",
+        "ja": "ハロウィンがやってきました！イベント期間中は4種類のテーマを無料で使え、ハロウィンのレア魚とハロウィン・ファントムコレクションを購入できます。イベント終了後も、水槽に迎えた魚は引き続き育てられます。",
+        "de": "Halloween ist da! Nutze während des Events vier kostenlose Themen und kaufe seltene Halloween-Fische sowie die Halloween-Phantomkollektion. Fische, die bereits in deinem Aquarium leben, kannst du auch nach dem Event weiter pflegen.",
+        "fr": "Halloween est arrivé ! Profitez de quatre thèmes gratuits et achetez des poissons rares d’Halloween ainsi que la Collection Fantôme d’Halloween pendant l’événement. Les poissons déjà dans votre aquarium restent à vos côtés après sa fin.",
+        "th": "ฮาโลวีนมาแล้ว! ใช้ธีมฟรีทั้ง 4 แบบ และซื้อปลาหายากฮาโลวีนกับคอลเลกชันภูตฮาโลวีนได้ในช่วงกิจกรรม หลังจบกิจกรรมยังคงเลี้ยงปลาที่อยู่ในตู้ต่อได้"
+      },
+      "schedule": {
+        "recurrence": "annual",
+        "time_basis": "device_local",
+        "start": {
+          "month": 10,
+          "day": 25,
+          "time": "00:00:00"
+        },
+        "end_exclusive": {
+          "month": 11,
+          "day": 8,
+          "time": "00:00:00"
+        }
+      }
+    }
+  ]
+}
