@@ -1,55 +1,37 @@
 {
   "schema_version": 1,
   "ios": {
-    "latest": "1.0.9",
+    "latest": "1.0.11",
     "min_supported": "1.0.0",
     "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208",
-    "message": {
-      "en": "1.Added support for iPhone Duo, with an optimized layout and improved display experience.\n2.Optimized display for Aquarium Diary.",
-      "zh_CN": "1.新增对 iPhone Duo 的支持，优化了布局并提升了显示体验。\n2.优化了“水族日记”的显示效果。",
-      "zh_TW": "1.新增對 iPhone Duo 的支持，優化了佈局並提升了顯示體驗。\n2.優化了水族箱日記的顯示效果。",
-      "Ko":"1. iPhone Duo 지원을 추가하고, 레이아웃을 최적화했으며, 화면 표시 경험을 개선했습니다.\n2. '수족관 일기(Aquarium Diary)'의 시각적 구성을 최적화했습니다.",
-      "ja": "1. iPhone Duoへの対応を追加しました。レイアウトを最適化し、表示体験を向上させています。\n2. 「Aquarium Diary」の表示を最適化しました。",
-      "de": "1. Unterstützung für iPhone Duo hinzugefügt, mit optimiertem Layout und verbesserter Darstellungsqualität.\n2. Optimierte Darstellung für „Aquarium Diary“.",
-      "fr": "1. Ajout de la prise en charge de l'iPhone Duo, avec une mise en page optimisée et une expérience d'affichage améliorée.\n2. Affichage optimisé pour « Aquarium Diary ».", 
-      "th": "1. เพิ่มการรองรับ iPhone Duo พร้อมปรับปรุงเลย์เอาต์และประสบการณ์การแสดงผลให้ดียิ่งขึ้น\n2. ปรับปรุงการแสดงผลสำหรับ Aquarium Diary"
-    }
+    "message": ""
   },
   "macOS": {
-    "latest": "1.0.9",
+    "latest": "1.0.11",
     "min_supported": "1.0.0",
     "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208",
     "message": ""
   },
   "android": {
-    "latest": "1.0.9",
+    "latest": "1.0.11",
     "min_supported": "1.0.3",
     "store_url": "https://play.google.com/store/apps/details?id=com.powercc.fishfish",
-    "message": {
-      "en": "1. Optimized display for Aquarium Diary.",
-      "zh_CN": "1.优化了“水族日记”的显示效果。",
-      "zh_TW": "1.優化了水族箱日記的顯示效果。",
-      "Ko":"1. '수족관 일기(Aquarium Diary)'의 시각적 구성을 최적화했습니다.",
-      "ja": "1.「Aquarium Diary」の表示を最適化しました。",
-      "de": "1. Optimierte Darstellung für „Aquarium Diary“.",
-      "fr": "1. Affichage optimisé pour « Aquarium Diary ».", 
-      "th": "1. ปรับปรุงการแสดงผลสำหรับ Aquarium Diary"
-    }
+    "message": ""
   },
   "windows": {
-    "latest": "1.0.9",
+    "latest": "1.0.11",
     "min_supported": "1.0.5",
     "store_url": "https://apps.microsoft.com/detail/9pj5j2lpbqfv?hl=en-US&gl=US",
     "message": ""
   },
   "message": {
-    "en": "1. Added a theme preview feature.\n2. Added 4 new varieties of classic ornamental fish.\n3. Doubled the capacity of all fish tanks.\n4. Adjusted the beginner difficulty level.\n5. Fixed several known issues.",
-    "zh_CN": "1.新增主题预览功能。\n2.新增4个品种的经典观赏鱼。\n3.所有鱼缸容量升级为2倍。\n4.初级难度调整。\n5.修复一些已知问题。",
-    "zh_TW": "1.新增主題預覽功能。\n2.新增4個品種的經典觀賞魚。\n3.所有魚缸容量升級為2倍。\n4.初級難度調整。\n5.修復一些已知問題。",
-    "ko": "1. 테마 미리보기 기능을 추가했습니다.\n2. 새로운 클래식 관상어 4종을 추가했습니다.\n3. 모든 어항의 수용 용량을 두 배로 늘렸습니다.\n4. 초보자 난이도를 조정했습니다.\n5. 몇 가지 알려진 문제를 수정했습니다.",
-    "ja": "1. テーマのプレビュー機能を追加しました。\n2. 4種類の定番観賞魚を追加しました。\n3. すべての水槽の容量を2倍に拡張しました。\n4. 初級の難易度を調整しました。\n5. 既知の不具合を修正しました。",
-    "de": "1. Eine Vorschaufunktion für Designs wurde hinzugefügt.\n2. Vier neue Varianten klassischer Zierfische wurden hinzugefügt.\n3. Die Kapazität aller Aquarien wurde verdoppelt.\n4. Der Schwierigkeitsgrad für Anfänger wurde angepasst.\n5. Mehrere bekannte Fehler wurden behoben.",
-    "fr": "1. Ajout d'une fonctionnalité de prévisualisation des thèmes.\n2. Ajout de 4 nouvelles variétés de poissons d'ornement classiques.\n3. Doublement de la capacité de tous les aquariums.\n4. Ajustement du niveau de difficulté pour les débutants.\n5. Correction de plusieurs problèmes connus.", 
-    "th": "1. เพิ่มฟีเจอร์ดูตัวอย่างธีม\n2. เพิ่มปลาสวยงามคลาสสิกสายพันธุ์ใหม่ 4 ชนิด\n3. เพิ่มความจุของตู้ปลาทุกตู้เป็นสองเท่า\n4. ปรับระดับความยากสำหรับผู้เล่นใหม่\n5. แก้ไขปัญหาที่พบหลายจุด"
+    "en": "Some mysterious and adorable new friends have arrived at the aquarium for Halloween!\n1.New seasonal fish: Halloween Molly, Black Ghost Knifefish, and Glass Catfish. Available for purchase with in-game coins during the event.\n2.New Halloween themes: Dress up your aquarium with festive scenery and create a cozy, magical home for your fish.\n3.New Halloween Night Phantom Collection: Permanently unlock the Black Orchid Crowntail Betta, Tuxedo Platy, and Darkwing Butterflyfish. Your first purchase includes one egg of each.",
+    "zh_CN": "万圣夜的水族馆，迎来了一群神秘又可爱的新朋友！\n1.新增节日鱼种：万圣节玛丽鱼、黑魔鬼鱼、玻璃猫鱼，可在活动期间使用游戏金币购买。\n2.新增万圣节主题：换上节日布景，为小鱼们准备一座温暖又奇幻的水族馆。\n3.新增「万圣夜幻影珍藏包」：永久解锁黑兰花皇冠斗鱼、橙黑礼服月光鱼与暗翼魔蝶鱼，首次购买各赠一枚鱼卵。",
+    "zh_TW": "萬聖夜的水族館，迎來了一群神秘又可愛的新朋友！\n1.新增節日魚種：萬聖節瑪麗魚、黑魔鬼魚、玻璃貓魚，可在活動期間使用遊戲金幣購買。\n2.新增萬聖節主題：換上節日布景，為小魚們準備一座溫暖又奇幻的水族館。\n3.新增「萬聖夜幻影珍藏包」：永久解鎖黑蘭花皇冠鬥魚、橙黑禮服月光魚與暗翼魔蝶魚，首次購買各贈一枚魚卵。",
+    "Ko":"할로윈 밤의 수족관에 신비롭고 귀여운 새 친구들이 찾아왔어요!\n1.새로운 시즌 물고기: 할로윈 몰리, 블랙 고스트 나이프피시, 글라스 캣피시를 이벤트 기간에 게임 내 코인으로 구매할 수 있어요.\n2.새로운 할로윈 테마: 축제 분위기의 배경으로 꾸미고, 물고기들을 위한 따뜻하고 환상적인 수족관을 만들어 보세요.\n3.새로운 「할로윈 밤 환영 컬렉션」: 블랙 오키드 크라운테일 베타, 오렌지 블랙 턱시도 플래티, 다크윙 버터플라이피시를 영구 해금해요. 최초 구매 시 각 물고기의 알을 하나씩 드려요.",
+    "ja": "ハロウィンの夜、水族館に不思議でかわいい新しい仲間たちがやって来ました！\n1.新しい季節の魚：ハロウィンモーリー、ブラックゴースト、トランスルーセントグラスキャットが登場。イベント期間中、ゲーム内コインで購入できます。\n2.新しいハロウィンテーマ：季節の飾り付けで、小さな魚たちのために温かく幻想的な水族館を作りましょう。\n3.新登場「ハロウィンナイト・幻影コレクション」：ブラックオーキッド・クラウンテールベタ、オレンジブラック・タキシードプラティ、ダークウィング・バタフライフィッシュを永久解放。初回購入時に、それぞれの卵を1個ずつプレゼントします。",
+    "de": "Zu Halloween sind geheimnisvolle und niedliche neue Freunde im Aquarium eingezogen!\n1.Neue saisonale Fische: Halloween-Molly, Weißstirn-Messerfisch und Glaswels. Während des Events mit Spielmünzen erhältlich.\n2.Neue Halloween-Themen: Schmücke dein Aquarium mit festlicher Kulisse und schaffe ein gemütliches, magisches Zuhause für deine Fische.\n3.Neu: „Halloween-Nacht: Phantomkollektion“. Schalte den Black-Orchid-Kronenschwanz-Kampffisch, den orange-schwarzen Tuxedo-Platy und den Dunkelflügel-Schmetterlingsfisch dauerhaft frei. Beim ersten Kauf erhältst du jeweils ein Ei.",
+    "fr": "Pour Halloween, de nouveaux amis aussi mystérieux qu’adorables arrivent dans l’aquarium !\n1.Nouveaux poissons saisonniers : Molly d’Halloween, Poisson-couteau fantôme noir et Silure de verre. Disponibles avec les pièces du jeu pendant l’événement.\n2.Nouveaux thèmes d’Halloween : Habillez votre aquarium de décors festifs et offrez à vos poissons un foyer chaleureux et féerique.\n3.Nouveau « Nuit d’Halloween · Coffret Fantôme » : Débloquez définitivement le Betta Crowntail Black Orchid, le Platy tuxedo orange et noir et le Poisson-papillon aux ailes sombres. Votre premier achat comprend un œuf de chaque espèce.", 
+    "th": "ค่ำคืนฮาโลวีนนี้ เหล่าเพื่อนใหม่แสนลึกลับและน่ารักมาเยือนตู้ปลาแล้ว!\n1.ปลาเทศกาลใหม่: ปลามอลลี่ฮาโลวีน ปลาแบล็กโกสต์ และปลาก้างพระร่วง ซื้อได้ด้วยเหรียญในเกมตลอดช่วงกิจกรรม\n2.ธีมฮาโลวีนใหม่: เปลี่ยนบรรยากาศด้วยฉากเทศกาล แล้วสร้างบ้านที่อบอุ่นและเปี่ยมมนตร์เสน่ห์ให้เหล่าปลาน้อย\n3.ใหม่ 「ชุดสะสมภูตมายาคืนฮาโลวีน」: ปลดล็อกปลากัดคราวน์เทลแบล็กออร์คิด ปลาสอดทักซิโด้ส้มดำ และปลาผีเสื้อปีกทมิฬอย่างถาวร พร้อมรับไข่ชนิดละหนึ่งฟองเมื่อซื้อครั้งแรก"
   }
 }
