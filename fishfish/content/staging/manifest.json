@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "revision": 3,
+  "revision": 4,
   "minimum_app_version": "1.0.12",
   "catalog": {
-    "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-staging-r3/catalog-r3.json",
-    "size": 21522,
-    "sha256": "f8758c6c0b26847df155bdeee39d3efa7d76b8317217852334d9787c278b62f6",
-    "signature": "TYQ3NLC/XaFeLWdHxPqQVDrqlK7JpzIh8ZYxc+7aDji3l5l6YBsBTZUal8VgZyQHC6s/ZJE1E5fab1GSHA96gKbxZuCUTpAgrjTiGjSKmr3/cSQOTzWLKG92eZzTPD4vIe1nM6P8fab9jVJY6XA7tooQsSEtB6uKrKwZGiGm0Nxv7Zqg2V949G2/p3pXRig5OyA1Zkr1VIG0Td+p4+hT4am6oPxMSSQs+wJK5Kr/LyXCpP4hJKch4ruR1LdU2pxt99xEqnQvf4UN7haz7KJCMRq0/tepnmwtfkgfcT45IJ659rfbgvofdYajAaGWqd39rBTjNz26pCtfwmL3pBKHkgW7UycdbiZX0DnGZ1Q0snV665T1Oh2Ss/gkj3ONhRZJL4L5xxxl8zHh043185Ufs+vWCzFzBHNP96svERn/bYU9Ke4RaAuCzSuNMB3870LC+PueBGZ1ePOv9Rf7WhWUSQn2gPgt6zD/6XuWcWxKDbfvkalkSp1hOSO3CsWMFYqf"
+    "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-staging-r4/catalog-r4.json",
+    "size": 26458,
+    "sha256": "f57609f14796ab0d61ffca45f1fb84d4ec0ea2a5b98ce7658d4ebde93258c621",
+    "signature": "TV/iPoWbb/Z/N4BA3MxG4ao10crXAc0mVuCIl6PKjleXY4UQnPgWXh5rdhhEWlrOcx/bm1zZ1QguC1ix+1q8XSJt55tjvxkdvd7mM/8Ghhpya+ABpcJ+IWtdTXmVrovBvTWY+3i52u/Kl9TSa9IjiuU7cHsi/uzjOBZjzA48aEWUqnCL2GoawQq4YsjFyYgh7G6Uq2EdBcfXh5+jgKtZXpoEKHysNzHzrvn+21sF9u7ETrHznHujfuFIMR7N/Rcn7aT2t0nbNRLIbNSh+k6djGiBhkz/zqQRwCc0Ri8OKChYVx/ZxddMFTXwCCGaoj1bS9hT1ZIB4DjMfiEd/7R3Tf0REZbo6Wx3jDyn4oP5XGJqlfVthQ8f8jRyZ8f+/buB63gsdoiLGeYfDKJZYlqEWPDKDlscLP9hIf5l6Dqwjw2uTXNTf07Acg424DLXqIRrD3DhrHRbbu1IIDTSEJPj3NhHZGHbietHfzSR2JK0FADgGuspSRbCpf6AQQGltvLe"
   },
   "packs": [
     {
       "pack_id": "staging_smoke",
       "pack_version": 2,
-      "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-staging-r3/staging_smoke-v2.pck",
+      "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-staging-r4/staging_smoke-v2.pck",
       "size": 2356,
       "sha256": "ec63b021a6b28bf8ae841fb475d74ec5f1e4cf42273daabaa7b6e6bffc8a64df",
       "signature": "CsM4pGbzRmxayK6YMhw8XLDSNty/p6Huz+v3M0k5pDzWseCsKyVLq9ytdMORHBkSGK4tEZlR6WELf7EepIRnw3Km6twkiN/jHyqPITzq4xIpFa+67cpVw+9KuXgop6NiT4A7muw+2mxg93k83sWevUrZVayrnZKDYml3WNan/rZOJQWdE95IuYdm3uJClKeBaXQFy/H7q/Wm1hnNPxQtx5ry3HqztXOOYTUElvtvLObYj+MQsrd21Vzkqe/qz3NuAEHFhqoRM/2XItkhBC1z0md6ITrhG3VTVU8+WnI+nlwxUXfODt2rv2wVqQvEOlFFuxoR7ASq37WgcvUMrXMy8ecq+YU91RUXpcucoQdyIfQzj7PPX5kY1YyOaNkSCKNUDa8JrCU0c1htJINPMemM047If0R+HQND3MdEM0jmHeaR26Anv4R64IJX3dPlnfnlOef+Q6A+MO7PYOzp4FLkcCSgpg4TdqMR7i5CGdq9gspAh2ruXFFnM2JUco+GfSRr",
@@ -23,11 +23,11 @@
     },
     {
       "pack_id": "freshwater_trio",
-      "pack_version": 1,
-      "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-staging-r3/freshwater_trio-v1.pck",
-      "size": 545136,
-      "sha256": "87e7cec81376fbd66cf160f5ab19d999c4ed8cdebe8a4f47c7b418fbda5477c0",
-      "signature": "lUgpCg4Sinj+m807oIO0f1ipviNUhOxq6Sjy1uiTZBKAyWP+Xpr4Nya3ricJ7QxaLVre6zWphXd0kesgWnK+Yn28E/0NzlCIIkoV5orWIxbXnjJbu05U++fdU0Hhoo0EH5GC+uiPGssdDlYKIbhvJcgHhfU2Em96gWlUJlrhqlByr/+w5WqZFuIcNNIWOy0n00sNuksPQjLttljUxkzRuvtPUDvoUGAvQJH1cv0DBbbggPzMm0D0L5quRIcOtiKVEgF474EhQq4c0qTczIJ4X7GmeKAQnlKDTE5C0ylzxMe17VoaZcnACcScQFlB/SG1KM+GdXyRYc8Qv5miL7wYHAiEdpLSGrHlM4mZ1Mn8mXNTnlnTEBpJxkJMLwRoP9iZ2LTlREZ3T2/wbrLlxj/si+jcIBr5GO7xiJUvLCGxJX0bnOiAb4OJUIMO+89wHf53WB2f3Xjz8uOnXOdWLAlQbgzWTixZ7Age4GKTkWsp8aw4KblWDrMl3z/KdpShqjVH",
+      "pack_version": 2,
+      "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-staging-r4/freshwater_trio-v2.pck",
+      "size": 550064,
+      "sha256": "c25cfc6b9dee5f6dcdcf603034b69e0c4025dfc8de4a14be76d3ad7276547472",
+      "signature": "ZEeA1x32RnTZX1XgXKLcvT/lzuoTvNs8CjOS7ztOBl4NM6Q+/h4+DnHJjNyCZOxvgh+uDg0HeUrpxprUg2APWMu2ClPDAT0uM7g7X6LQ2FaHk8cybPiJds5xxrGdo+qsHdmUO4Un8BNsGsgS6uZbWA2EZbvmEehpG4ui9rTpY+DnoBSdpCVk971vs0nEhXec9nnxyOmFwRVW8PTRTAi/97HACJwb4iMwfEpuh/UMf/mFT2hVXd6lod4J81vAwFCBxGDt5CwZTTTVPVhcoLPJkv3cEnqWMvT2wiRzPqoS4Ta1HXDVs/bhPQAcwk07Rq/C+ajZ15Owowhru9QNStz0XRpKmvhKBOydo+QAEg1QZYNm5ZCjO7kEouhfS/2Rin7X1TUN7Afl/qALSCLiCbkJGJfJB9OCSpkoNiJULodsRKMPTezTVkinq/+ivO4dVwkKinmoQUnjU3AHcGIuxE1yJDJ71pCPKwE+uzyApP1ozCyVP1YBkelxi5zljlT5aCUg",
       "files": [
         "res://dynamic_content/freshwater_trio/assets/celestial_pearl_danio_adult.webp",
         "res://dynamic_content/freshwater_trio/assets/celestial_pearl_danio_fry.webp",
@@ -42,5 +42,5 @@
       ]
     }
   ],
-  "signature": "MvU7hHu4/c/yqjd4M/LUPzWpohr0P3YPIPqzshhN2oNxQ41kr20A5weFN1dufXj3ABc4SeRKobgUDnXwHoan/Hs7JvxP37SrehG8oPkuY5P+ypG+V3vn7T26taB+GDrnZWW9nc3P8OvQz9rm8e4C/AwU5+tdurLlxA+mLDLmWCL3Y6TTzz80PUaldnfgDiohRDVqMA540zlj/IArhJie6G9S2W+9MTG3hexwXb1FpcdMYxMLObmfjl5/aGXTuJP2rjFLG0PetxToKWcLJqUWeZx0rzm7MGWG7detAWmVShKSViJJVh+o7vbB/4SUgpFyvSEkPO0HX2ebenog1Ehh8n6hyqWYGhxiw+6t6UT/16cfA2zhu2Lo76iBelrBYefZ8KW7rk0Wc4IA+xzOIyxMm8PxPEa1eD2Z5rdG+t7/dRzyxAVpBTPaGvuDiLRxWo5YqYQPt5S4c9dgV7hpTdHd2VqoS3u2AwUrQtbirVy9sU/g8WXQJbJcWa0IrK1u6TwL"
+  "signature": "J/OcHndni6g6cT4sh5V0Cua2K1evhn1L3oBGOZ+DkYSx4ErnI0QeuWChQ0/K68wgCp5p9Mt21pLhR3TOoWdXfxaeArp6LEbHP09CvQPsC1fMotqH+bvdeXutJjv1A49PFKitOJOORYWCYurKFe3yynziOl38XjNGe/zjhyqUB9zvfpozs/fUqwmVEyDHbk7XWXu5wfWBlcMo/LDd5n1XWdDB460Mq3lrqyCGzeEaQIOqQJTajf7niDL02nvcPYUL/RxL59RsewzksikrIrj7qa6eNJ/GOqsJxDqoP2Hk+Uu1I9NHCwjcJOn0jo5wNIZS9zfLBzd5KAjNPhTHiEFRacbilxfTsXciPaCDzFwdygBTeim+Yo5nPUaV1P+Shx+ily+jK+ds1NxATnwTHj83j7RuT+1gjxygXFCJiwtPqW8OMg9oxXFMhfW7z07YYSLuDuCka6a8dc+gFm++mVv45lQjUR2jVBadyIgPBydbSQNX1+J/X1uj6FrOUdxOUylc"
 }
