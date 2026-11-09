@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "revision": 13,
+  "minimum_app_version": "1.0.12",
+  "catalog": {
+    "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-production-r13/catalog-r13.json",
+    "size": 53611,
+    "sha256": "96748ff4862fdf43f9a1cd727dba0a3a9504e86f7549e164dfe7a356470523b0",
+    "signature": "M76zzrPubOLlJ2RRVjQOVY9L1yviCaE15upGVbCAV9O5ZGBrlbEswyji9bWQUspSSTnRLbkoP+mpyYlpNUaBixgcYqmd2BkuAWy9ylAQRDdqJYLeqx4PfAj0Gm/MGkE0pt/Jk1+IAtEkWcpMUNuUt3W/W/UoWYMyEoXvJT37FxE0vveWxV0qGDsNGlfEqIE6LEGo5Oknaw9Qk6h0XdP3Q1DKYPMsdJ1GzcNE6myrHN6qR4ZiEsqf41ZE1P6K9OBTRiIAnUWAlYvrZVeUk9MePGMG2nhMnxl39ZJx2/KsYMmwwEPLF4DvbYZU8k9L0E5QbsDbnTqNxJjPq36vUjANIujsgqXSWoGc29IPRh61RGtFkOVA98x3WRPp99n9DfNnroAT0+UI/SW47zOY1rxKfj0P9lGDcyUPVNlTfIuetf+8F9p6AQ6Gig0kpUpe5rNMbb/mU51GJ4lbTEKiMJMXNHH3S+6AuuabiX5F2bFyCNn3BRnR+LRLLLuiQvoAtLNa"
+  },
+  "packs": [
+    {
+      "pack_id": "freshwater_trio",
+      "pack_version": 2,
+      "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-production-r13/freshwater_trio-v2.pck",
+      "size": 550064,
+      "sha256": "c25cfc6b9dee5f6dcdcf603034b69e0c4025dfc8de4a14be76d3ad7276547472",
+      "signature": "ZEeA1x32RnTZX1XgXKLcvT/lzuoTvNs8CjOS7ztOBl4NM6Q+/h4+DnHJjNyCZOxvgh+uDg0HeUrpxprUg2APWMu2ClPDAT0uM7g7X6LQ2FaHk8cybPiJds5xxrGdo+qsHdmUO4Un8BNsGsgS6uZbWA2EZbvmEehpG4ui9rTpY+DnoBSdpCVk971vs0nEhXec9nnxyOmFwRVW8PTRTAi/97HACJwb4iMwfEpuh/UMf/mFT2hVXd6lod4J81vAwFCBxGDt5CwZTTTVPVhcoLPJkv3cEnqWMvT2wiRzPqoS4Ta1HXDVs/bhPQAcwk07Rq/C+ajZ15Owowhru9QNStz0XRpKmvhKBOydo+QAEg1QZYNm5ZCjO7kEouhfS/2Rin7X1TUN7Afl/qALSCLiCbkJGJfJB9OCSpkoNiJULodsRKMPTezTVkinq/+ivO4dVwkKinmoQUnjU3AHcGIuxE1yJDJ71pCPKwE+uzyApP1ozCyVP1YBkelxi5zljlT5aCUg",
+      "files": [
+        "res://dynamic_content/freshwater_trio/assets/celestial_pearl_danio_adult.webp",
+        "res://dynamic_content/freshwater_trio/assets/celestial_pearl_danio_fry.webp",
+        "res://dynamic_content/freshwater_trio/assets/celestial_pearl_danio_juvenile.webp",
+        "res://dynamic_content/freshwater_trio/assets/cherry_barb_adult.webp",
+        "res://dynamic_content/freshwater_trio/assets/cherry_barb_fry.webp",
+        "res://dynamic_content/freshwater_trio/assets/cherry_barb_juvenile.webp",
+        "res://dynamic_content/freshwater_trio/assets/panda_cory_adult.webp",
+        "res://dynamic_content/freshwater_trio/assets/panda_cory_fry.webp",
+        "res://dynamic_content/freshwater_trio/assets/panda_cory_juvenile.webp",
+        "res://dynamic_content/freshwater_trio/catalog.json"
+      ]
+    },
+    {
+      "pack_id": "aquatic_garden",
+      "pack_version": 1,
+      "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-production-r13/aquatic_garden-v1.pck",
+      "size": 1147264,
+      "sha256": "70d5acce00fc315b374b07c62967abc493a55263164920d12bc2cce9d764c25c",
+      "signature": "UuG/JbCTzu6XMn50yoqJ9C18SAWo9D/9gmRGN+IEl3a8NbCSoREibnvY4nLJnFnHhca23zt2zMSHkcrruYXOG5w/x8Pnr9MWITVYASNZkki+pfuwNvdj1et6H7XzHuIbjImtjY2mAzes3sZtuK1t1Dsdk3O3kXdLyrJPF8TJ1vXNsam3Fxnl+aLxC25gUbMpR52kC0bCtupya4ylSoqEwCfn6m7MGrqdc5CkR0xKfEHris64np61+eP4Cjz2zfrcTT6bVOh0VMJ2covVhOTMrQ5yHK/UaiRp8HE8F8usYyUHQgaufQvavb3RbgCtqwwfX1toaJEVwxn+Uo4FVuB9AUXs3hIWelMZB0WauF1IjFbpnkrimbJOhhexzswGwjSapDQxJj/I6vuYdaCuHy2KcZ6d2q8WO0BkFHsvIuGvxviFPsV/KkqJtHC3Y/DFY1fpC112paQXM4qMPV0sxyzQe8n15rNQpcIroUjb/3qJz27E8DvNSaJ2q4D8d2TcqEWh",
+      "files": [
+        "res://dynamic_content/aquatic_garden/assets/alternanthera_mini.webp",
+        "res://dynamic_content/aquatic_garden/assets/bucephalandra_kedagang.webp",
+        "res://dynamic_content/aquatic_garden/assets/heteranthera_zosterifolia.webp",
+        "res://dynamic_content/aquatic_garden/assets/hygrophila_pinnatifida.webp",
+        "res://dynamic_content/aquatic_garden/assets/lobelia_mini.webp",
+        "res://dynamic_content/aquatic_garden/assets/ludwigia_super_red.webp",
+        "res://dynamic_content/aquatic_garden/assets/marsilea_hirsuta.webp",
+        "res://dynamic_content/aquatic_garden/assets/nymphoides_taiwan.webp",
+        "res://dynamic_content/aquatic_garden/assets/pogostemon_helferi.webp",
+        "res://dynamic_content/aquatic_garden/assets/staurogyne_repens.webp",
+        "res://dynamic_content/aquatic_garden/catalog.json"
+      ]
+    },
+    {
+      "pack_id": "fresh_aquarium_feed",
+      "pack_version": 1,
+      "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-production-r13/fresh_aquarium_feed-v1.pck",
+      "size": 211628,
+      "sha256": "60a039713be3a64f0543a16a153461ca55ddd87221f0d5ee402e08fcd64a3f0d",
+      "signature": "H+MdRALDfW2i8MABUlXRwg+fnPbgWhTOmUxoDz9PjoLlAnf9Xbw8k+gIURGtnQmPeTBMoqszpGcOL7g+PWDugvPPhNDNZfWCpPv6qSHTW4tzwImzQVgPoOYdSoeudzcNNES2BeLaEDe+lmUC7JdGrvBZZCCx0UB5hFW8RJUjadS9VUyZk/dkVIRCe+z3/HQiq1ZTNLgljXInrm93cY+oTyO/0BJVesn1szFGgc6wc0ja5kdgKuyHXxPVMttyY059UBW0IqkZcbd6Z018ET2NnGLoVPCHpratkrIsgpnnToqgCZSuASLucph481STTaCNb80imx5QOTQ81yQ1KfUrnYah5A2RTfgwb7B0kwDpwJ7j9HtBZEW3KoOwT/QrWo0UQJ0ajEnxjG/UMjRyqO6QQlMEHJ7agUOz9OSP9BYtN/DasNH/zQxShbjFNw34s6SXcIFtkRYbtfbWhYhU6w07nOoSx7O9aDmQGMidCY9us215c+dde4HTMu+7w+sK2405",
+      "files": [
+        "res://dynamic_content/fresh_aquarium_feed/assets/fresh_bloodworms.webp",
+        "res://dynamic_content/fresh_aquarium_feed/assets/fresh_mealworms.webp",
+        "res://dynamic_content/fresh_aquarium_feed/catalog.json"
+      ]
+    },
+    {
+      "pack_id": "candy_ornaments",
+      "pack_version": 1,
+      "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-production-r13/candy_ornaments-v1.pck",
+      "size": 192284,
+      "sha256": "bd3919e5a6da945245e1ea36cf3316def3ad0e01277dd893758ecace57716ac0",
+      "signature": "VtQEihJ65AOhXVc0IlFx1BPHd18W6o5HnWrIvSMsb8/KS6RvScC3Z7z20c/5DWlSRjM8N1n87sI9JhjfTjyY5u09AMsWNqIH38lTofZ5ZtXin3fCBqTDPLLWyFEtgqIJyDuW6Qj6PiLJAOeuP1VP65EL3r6JRSEW3mSBAOvVd73dnxkv7xAhJsh66oCj6liOBBtb7JwxUfcygw47BPmYReocvEjjCn4XqSQyVcDZC6y4vd1fCessjOLJpafYHg1eMY2fbJM7XGA1cYc7EZkVW36FIpFaYiQOKyPf1V5k7o1K//eJZhERtclUDD9qNh6VYe1S6qUOi92ZNPOWs7/sa0sICBYxZp1tNyo3j9jHQsYmpcJBU3/aCWNTzlSgLmpUb2hTG+X4+6bFP2t3xRMel12Jb4D4r4Lq3j3xMC7Xn35TWnVMV010whopya2XErjFky8b/domh++pKtQcSnJDpVS7FISHGkXg+Q4mgy5F2U1uMGpLpFIla/w+VFo0dNwU",
+      "files": [
+        "res://dynamic_content/candy_ornaments/assets/fruit_candy.webp",
+        "res://dynamic_content/candy_ornaments/assets/rainbow_lollipop.webp",
+        "res://dynamic_content/candy_ornaments/catalog.json"
+      ]
+    },
+    {
+      "pack_id": "candy_workshop",
+      "pack_version": 4,
+      "url": "https://github.com/PowerCC/powercc.github.io/releases/download/fishfish-content-production-r13/candy_workshop-v4.pck",
+      "size": 2210412,
+      "sha256": "2cedfb2abf9ec59dc2ec1f09dec7383dc98e28b2fbb733a4e3ea5bcb7607fa46",
+      "signature": "TBnyDJntpYFxlKDDA6u43wNGhLswZzybkXnYDNrbtgevsb3ytHbOp1Nl7N+h3POtGkBIfN78UtBRjlUEjbhVPfx6OzObt4woB5jrrQyKuldzcEFIdKfD5RydqEa7HmMas0mAz8lR3CeY+BN5l5jx9ygphrWwKDENDWaYrhhJCSpGw6lMBbjJPT5oAyslR4gCH7lBY+E5LH123d2l8BCFkDQFsyrpgRxDcc+HBHTBx/aJKMhlSW3fx3aGAsbvMbGvV+Xwzl7xuWAVsbWl3f5dOVJyNQE4/+Kus8mn75iYdudakjPD8yVdevaVmcOdaRk1pkh2hYvIub6FhJ4mEwXyA1zisxz1Nb7hDhKN+fbfw7A+uOfrqvrVgFOzPAYK9Z4I7qOh4OujOdTLhxPv9WgH9mMcz5X5+eQX/WtOxP4ivP9wCY9qB0Zu3ALzHRiAwORDzzhVj/pZW0Y/uNBexsXOC6z5+JZ6zBUgBvypqml3C1LRlQgyamUq/nRp5jL7H2xN",
+      "files": [
+        "res://dynamic_content/candy_workshop/assets/candy_workshop_background.webp",
+        "res://dynamic_content/candy_workshop/assets/candy_workshop_frame.webp",
+        "res://dynamic_content/candy_workshop/catalog.json"
+      ]
+    }
+  ],
+  "signature": "y/OuQomp82QgLEr+CLLDeBe+kGJzIHNmhwx7eJPwqy1UtSebB9/XL3W27ROTXuViPmVJfdFWWZeA7Htz2jOSop7jNua+oclPNGIAH8Ja9uRS2F4ToqJDI2NfvWHaZSqiBqUorNFRFNRo72Z6EByqXuTs79XFWGZWPwQQ2PbtcqqdhIMzQ0ch/EfIpSpKdNJmh1lwsgyHkUo0+XZYGyw7kRSquxqxd3pzV3Sij9l3z1aBoubhe/8mRLWR8nlYWZdwt58ZdcOskTVBFx/8hY7mbqWBwzVCNjIH4JS8GNt5Uc6ym5IHTsXznRwst3LAkwp8xd2yJhxEXFFOeKyfSXxM0MHuWoOY9pDTwRbkgATSzscBK+RqN9Cd8tzGSqkJZg0OyNfnl/QYMB+oid8loc78MU1SOJjAz8JmK7Lkw6Od4l445ZwcvgYjkISWjO14+ffO07uRJbtd0DepJ3m13SF1WNySUJ0WA85KRltHi5xWoagsCIEx/dvsF647t2iRtdRy"
+}
