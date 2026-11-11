@@ -1,37 +1,37 @@
 {
   "schema_version": 1,
   "ios": {
-    "latest": "1.0.11",
+    "latest": "1.0.12",
     "min_supported": "1.0.0",
     "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208",
     "message": ""
   },
   "macOS": {
-    "latest": "1.0.11",
+    "latest": "1.0.12",
     "min_supported": "1.0.0",
     "store_url": "https://apps.apple.com/us/app/fishfish-cozy-aquarium/id6788188208",
     "message": ""
   },
   "android": {
-    "latest": "1.0.11",
+    "latest": "1.0.12",
     "min_supported": "1.0.3",
     "store_url": "https://play.google.com/store/apps/details?id=com.powercc.fishfish",
     "message": ""
   },
   "windows": {
-    "latest": "1.0.11",
+    "latest": "1.0.12",
     "min_supported": "1.0.5",
     "store_url": "https://apps.microsoft.com/detail/9pj5j2lpbqfv?hl=en-US&gl=US",
     "message": ""
   },
   "message": {
-    "en": "Some mysterious and adorable new friends have arrived at the aquarium for Halloween!\n1.New seasonal fish: Halloween Molly, Black Ghost Knifefish, and Glass Catfish. Available for purchase with in-game coins during the event.\n2.New Halloween themes: Dress up your aquarium with festive scenery and create a cozy, magical home for your fish.\n3.New Halloween Night Phantom Collection: Permanently unlock the Black Orchid Crowntail Betta, Tuxedo Platy, and Darkwing Butterflyfish. Your first purchase includes one egg of each.",
-    "zh_CN": "万圣夜的水族馆，迎来了一群神秘又可爱的新朋友！\n1.新增节日鱼种：万圣节玛丽鱼、黑魔鬼鱼、玻璃猫鱼，可在活动期间使用游戏金币购买。\n2.新增万圣节主题：换上节日布景，为小鱼们准备一座温暖又奇幻的水族馆。\n3.新增「万圣夜幻影珍藏包」：永久解锁黑兰花皇冠斗鱼、橙黑礼服月光鱼与暗翼魔蝶鱼，首次购买各赠一枚鱼卵。",
-    "zh_TW": "萬聖夜的水族館，迎來了一群神秘又可愛的新朋友！\n1.新增節日魚種：萬聖節瑪麗魚、黑魔鬼魚、玻璃貓魚，可在活動期間使用遊戲金幣購買。\n2.新增萬聖節主題：換上節日布景，為小魚們準備一座溫暖又奇幻的水族館。\n3.新增「萬聖夜幻影珍藏包」：永久解鎖黑蘭花皇冠鬥魚、橙黑禮服月光魚與暗翼魔蝶魚，首次購買各贈一枚魚卵。",
-    "Ko":"할로윈 밤의 수족관에 신비롭고 귀여운 새 친구들이 찾아왔어요!\n1.새로운 시즌 물고기: 할로윈 몰리, 블랙 고스트 나이프피시, 글라스 캣피시를 이벤트 기간에 게임 내 코인으로 구매할 수 있어요.\n2.새로운 할로윈 테마: 축제 분위기의 배경으로 꾸미고, 물고기들을 위한 따뜻하고 환상적인 수족관을 만들어 보세요.\n3.새로운 「할로윈 밤 환영 컬렉션」: 블랙 오키드 크라운테일 베타, 오렌지 블랙 턱시도 플래티, 다크윙 버터플라이피시를 영구 해금해요. 최초 구매 시 각 물고기의 알을 하나씩 드려요.",
-    "ja": "ハロウィンの夜、水族館に不思議でかわいい新しい仲間たちがやって来ました！\n1.新しい季節の魚：ハロウィンモーリー、ブラックゴースト、トランスルーセントグラスキャットが登場。イベント期間中、ゲーム内コインで購入できます。\n2.新しいハロウィンテーマ：季節の飾り付けで、小さな魚たちのために温かく幻想的な水族館を作りましょう。\n3.新登場「ハロウィンナイト・幻影コレクション」：ブラックオーキッド・クラウンテールベタ、オレンジブラック・タキシードプラティ、ダークウィング・バタフライフィッシュを永久解放。初回購入時に、それぞれの卵を1個ずつプレゼントします。",
-    "de": "Zu Halloween sind geheimnisvolle und niedliche neue Freunde im Aquarium eingezogen!\n1.Neue saisonale Fische: Halloween-Molly, Weißstirn-Messerfisch und Glaswels. Während des Events mit Spielmünzen erhältlich.\n2.Neue Halloween-Themen: Schmücke dein Aquarium mit festlicher Kulisse und schaffe ein gemütliches, magisches Zuhause für deine Fische.\n3.Neu: „Halloween-Nacht: Phantomkollektion“. Schalte den Black-Orchid-Kronenschwanz-Kampffisch, den orange-schwarzen Tuxedo-Platy und den Dunkelflügel-Schmetterlingsfisch dauerhaft frei. Beim ersten Kauf erhältst du jeweils ein Ei.",
-    "fr": "Pour Halloween, de nouveaux amis aussi mystérieux qu’adorables arrivent dans l’aquarium !\n1.Nouveaux poissons saisonniers : Molly d’Halloween, Poisson-couteau fantôme noir et Silure de verre. Disponibles avec les pièces du jeu pendant l’événement.\n2.Nouveaux thèmes d’Halloween : Habillez votre aquarium de décors festifs et offrez à vos poissons un foyer chaleureux et féerique.\n3.Nouveau « Nuit d’Halloween · Coffret Fantôme » : Débloquez définitivement le Betta Crowntail Black Orchid, le Platy tuxedo orange et noir et le Poisson-papillon aux ailes sombres. Votre premier achat comprend un œuf de chaque espèce.", 
-    "th": "ค่ำคืนฮาโลวีนนี้ เหล่าเพื่อนใหม่แสนลึกลับและน่ารักมาเยือนตู้ปลาแล้ว!\n1.ปลาเทศกาลใหม่: ปลามอลลี่ฮาโลวีน ปลาแบล็กโกสต์ และปลาก้างพระร่วง ซื้อได้ด้วยเหรียญในเกมตลอดช่วงกิจกรรม\n2.ธีมฮาโลวีนใหม่: เปลี่ยนบรรยากาศด้วยฉากเทศกาล แล้วสร้างบ้านที่อบอุ่นและเปี่ยมมนตร์เสน่ห์ให้เหล่าปลาน้อย\n3.ใหม่ 「ชุดสะสมภูตมายาคืนฮาโลวีน」: ปลดล็อกปลากัดคราวน์เทลแบล็กออร์คิด ปลาสอดทักซิโด้ส้มดำ และปลาผีเสื้อปีกทมิฬอย่างถาวร พร้อมรับไข่ชนิดละหนึ่งฟองเมื่อซื้อครั้งแรก"
+    "en": "1. Added a new \"Candy\" theme (available for free);\n2. Added 3 new types of aquatic life;\n3. Added 10 new types of aquatic plants;\n4. Added fresh insect-based fish food;\n5. Fixed some known issues.",
+    "zh_CN": "1.新增糖果免费主题；\n2.新增3种水族；\n3.新增10种水草；\n4.新增鲜虫鱼粮;\n5.修复一些已知问题。",
+    "zh_TW": "1.新增糖果免費主題；\n2.新增3種水族；\n3.新增10種水草；\n4.新增鮮蟲魚糧;\n5.修復一些已知問題。",
+    "Ko": "1. 새로운 '캔디' 테마 추가 (무료 이용 가능);\n2. 새로운 수생 생물 3종 추가;\n3. 새로운 수생 식물 10종 추가;\n4. 신선한 곤충 기반 물고기 먹이 추가;\n5. 알려진 몇 가지 문제 수정.",
+    "ja": "1. キャンディをテーマにした無料テーマを追加；\n2. 水生生物を3種類追加；\n3. 水草を10種類追加；\n4. 生餌（虫）タイプの魚用フードを追加；\n5. 既知の不具合を修正。",
+    "de": "1. Ein neues „Candy“-Design hinzugefügt (kostenlos erhältlich);\n2. 3 neue Arten von Wasserlebewesen hinzugefügt;\n3. 10 neue Arten von Wasserpflanzen hinzugefügt;\n4. Frisches Fischfutter auf Insektenbasis hinzugefügt;\n5. Mehrere bekannte Probleme behoben.",
+    "fr": "1. Ajout d'un nouveau thème « Bonbon » (disponible gratuitement) ;\n2. Ajout de 3 nouveaux types d'organismes aquatiques ;\n3. Ajout de 10 nouveaux types de plantes aquatiques ;\n4. Ajout d'une nouvelle nourriture pour poissons à base d'insectes ;\n5. Correction de plusieurs problèmes connus.", 
+    "th": "1. เพิ่มธีมใหม่ \"Candy\" (เปิดให้ใช้งานได้ฟรี)\n2. เพิ่มสิ่งมีชีวิตในน้ำชนิดใหม่ 3 ชนิด\n3. เพิ่มพืชน้ำชนิดใหม่ 10 ชนิด\n4. เพิ่มอาหารปลาแบบสดที่ทำจากแมลง\n5. แก้ไขปัญหาต่าง ๆ ที่พบก่อนหน้านี้"
   }
 }
