@@ -13,10 +13,19 @@
     "message": ""
   },
   "android": {
-    "latest": "1.0.12",
+    "latest": "1.0.13",
     "min_supported": "1.0.3",
     "store_url": "https://play.google.com/store/apps/details?id=com.powercc.fishfish",
-    "message": ""
+    "message": {
+      "zh-CN": "• 新增引鱼玩法：轻点水面聚拢同种鱼，按住拖动可引导鱼群。\n• 新增 6 款小型鲃鱼，以及收录 6 个品相的「樱桃鲃·流霞珍藏」。\n• 水草、鱼粮和摆件卡片更清晰，优化水族日记和购鱼提示中的品相名称显示。",
+      "zh-TW": "• 新增引魚玩法：輕點水面聚攏同種魚，按住拖曳可引導魚群。\n• 新增 6 款小型鲃魚，以及收錄 6 個品相的「櫻桃鲃·流霞珍藏」。\n• 水草、魚糧和擺件卡片更清晰，改善水族日記和購魚提示中的品相名稱顯示。",
+      "en": "• Tap the water to gather fish of the same species. Hold and drag to guide the school.\n• Added six small barbs and the Cherry Barb · Rosy Glow Collection with six varieties.\n• Sharper plant, food, and decoration cards, plus clearer variety names in the diary and purchase notifications.",
+      "ja": "• 水面をタップすると同じ種類の魚が集まり、押したまま動かすと魚の群れがついてきます。\n• 小型バルブの仲間6種類と、6品種を収録した「チェリーバルブ · 夕映えコレクション」を追加しました。\n• 水草・エサ・飾りのカード画像を高精細化し、日記や購入時の品種名表示を改善しました。",
+      "ko": "• 수면을 터치하면 같은 종의 물고기가 모여요. 누른 채로 움직이면 물고기 떼가 따라와요.\n• 소형 바브 6종과 6가지 품종이 담긴 「체리바브 · 노을빛 컬렉션」을 추가했어요.\n• 수초·먹이·장식품 카드가 더 선명해졌고, 일지와 구매 알림에서 품종 이름이 더 잘 보여요.",
+      "de": "• Tippe aufs Wasser, um Fische derselben Art zu sammeln. Halte gedrückt und ziehe, um den Schwarm zu führen.\n• Sechs neue kleine Barben und die Bitterlingsbarbe · Abendglanz-Kollektion mit sechs Varianten.\n• Schärfere Kartenbilder für Pflanzen, Futter und Deko sowie besser lesbare Variantennamen im Tagebuch und in Kaufmeldungen.",
+      "fr": "• Touche l’eau pour rassembler les poissons d’une même espèce. Maintiens et fais glisser pour guider le banc.\n• Six nouveaux petits barbus et la collection Barbus cerise · Collection Lueur du soir, avec six variétés.\n• Cartes de plantes, de nourriture et de décorations plus nettes. Noms des variétés plus lisibles dans le journal et les notifications d’achat.",
+      "th": "• แตะผิวน้ำให้ปลาชนิดเดียวกันว่ายมารวมกัน แตะค้างแล้วลากเพื่อพาฝูงปลาว่ายตาม\n• เพิ่มปลาบาร์บขนาดเล็ก 6 แบบ และปลาเชอร์รีบาร์บ · คอลเลกชันแสงสนธยา ที่มี 6 สี\n• ภาพการ์ดพืชน้ำ อาหารปลา และของตกแต่งคมชัดขึ้น พร้อมปรับการแสดงชื่อสายพันธุ์ในบันทึกและข้อความแจ้งเตือนเมื่อซื้อปลา"
+    }
   },
   "windows": {
     "latest": "1.0.12",
